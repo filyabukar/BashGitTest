@@ -1,0 +1,2 @@
+# BashGitTest
+My first repository
